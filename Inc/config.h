@@ -4,7 +4,7 @@
 
 #include "stm32f1xx_hal.h"
 
-// ############################### VARIANT SELECTION ###############################
+/// ############################### VARIANT SELECTION ###############################
 // PlatformIO: uncomment desired variant in platformio.ini
 // Keil uVision: select desired variant from the Target drop down menu (to the right of the Load button)
 // Ubuntu: define the desired build variant here if you want to use make in console
